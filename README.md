@@ -1,5 +1,6 @@
 ### Hi, I'm Greg Grigoropoulos 👋
 
+### A determined Data Analyst and Aeronautical Engineer with fast learning ability and passion for coding. Moving towards Data Science & Machine Learning. 
 - :mortar_board: Studied Mechanical Engineering (MEng-Dipl.Ing. / 5-year studies) and specialised in Aeronautical Engineering/Aviation Management at the top Faculty of Engineering of Greece at the Aristotle University of Thessaloniki.
 -  🔭 Currently working at Onfido as a Data Analyst on Machine Learning-related projects. In the past I worked as a Product Data Analyst/Operations Analyst/Internal Consultant for Weengs and before London as a Superintendent Engineer for a dry bulk carrier maritime company in Piraeus (Athens), Greece.
 - 🌱 Studying Deep Learning.
