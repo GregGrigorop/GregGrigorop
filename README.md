@@ -2,7 +2,7 @@
 
 ### An Aeronautical Engineer turned Superintendent Engineer turned Data Analyst, on the verge of Artificial Intelligence & Data Science. 
 
-- :mortar_board: Studied Mechanical Engineering (MEng-Dipl.Ing. / 5-year studies) and specialised in Aeronautical Engineering/Aviation Management at the top Faculty of Engineering of Greece at the Aristotle University of Thessaloniki.
+- :mortar_board: Studied Mechanical Engineering (MEng-Dipl.Ing. / 5-year studies). Specialised in Aeronautical Engineering/Aviation Management at Greece's highest ranked Faculty of Engineering @ the Aristotle University of Thessaloniki.
 -  🔭 Working at Onfido as a Data Analyst on Machine Learning-related projects.
 - :+1: Worked as a Product Data Analyst/Operations Analyst/Internal Consultant for Weengs and before London as a Superintendent Engineer for a dry bulk carrier maritime company in Piraeus (Athens).
 - 🌱 Studying Deep Learning.
