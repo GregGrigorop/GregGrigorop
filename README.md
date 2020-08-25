@@ -9,7 +9,7 @@
 - 🔬 Super interested in Machine Learning/Deep Learning, Data Science, Investment.
 - :tiger: Determination, fast learning ability, extensive business experience, passion for coding & technology.
 
-### Languages & Tools:
+### Languages and Tools:
 [<img align="left" alt="Python" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="Pandas" height="28px" src="https://i.redd.it/c6h7rok9c2v31.jpg"/>][pandas]
 [<img align="left" alt="NumPy" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>][numpy]
