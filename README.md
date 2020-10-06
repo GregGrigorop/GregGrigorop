@@ -7,7 +7,7 @@
 - :+1: Worked as a Product Data Analyst/Operations Analyst/Internal Consultant for Weengs and before London as a Superintendent Engineer for a dry bulk carrier maritime company in Piraeus (Athens).
 - 🌱 Studying Deep Learning.
 - 🔬 Super interested in Machine Learning/Deep Learning, Data Science, Investment.
-- :tiger: Determination, fast learning ability, extensive business experience, passion for coding & technology.
+- :tiger: Determination, fast learning ability, extensive business experience, high energy, passion for coding & technology. And a happy person!
 
 ### Languages and Tools:
 [<img align="left" alt="Python" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
