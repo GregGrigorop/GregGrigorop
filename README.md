@@ -6,7 +6,7 @@
 -  🔭 Working at Onfido as a Data Analyst on Machine Learning-related projects.
 - :+1: Worked as a Product Data Analyst/Operations Analyst/Internal Consultant for Weengs and before London as a Superintendent Engineer for a dry bulk carrier maritime company in Piraeus (Athens).
 - 🌱 Currently studying Deep Learning.
-- 🔬 Super interested in Machine Learning/Deep Learning, Data Science, Investment.
+- 🔬 Super interested in Machine Learning/Deep Learning, Data Science, and in generating data-driven solutions that tackle real problems.
 - :tiger: Determination, fast learning ability, extensive business experience, passion for coding & technology. And a happy person!
 
 ### Languages and Tools:
